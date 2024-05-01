@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "Azurite.azurite",
+    "Ionide.Ionide-fsharp",
+    "georgewfraser.fsharp-language-server",
+    "ms-dotnettools.csdevkit"
+  ]
+}

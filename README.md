@@ -6,6 +6,8 @@ It should be as simple as cloning the repo and running the function app.
 
 Built using Microsoft Visual Studio Community 2022 (64-bit) Version 17.9 and Dotnet 8 version 8.0.204.
 
+⚠️ This example uses Orchestration triggers and needs Azurite to run locally.
+
 ### GOTCHAS
 
 I ran into a couple of issues when trying to publish to app to azure:
